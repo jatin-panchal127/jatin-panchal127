@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Jatin Panchal 👋
 
-<!--
-**jatin-panchal127/jatin-panchal127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Engineer | 3.5 Years Experience
+I specialize in building scalable, multi-tenant SaaS platforms and high-performance web applications using the **Next.js, Nest.js, and PostgreSQL** stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Frontend:** Next.js, React.js, TypeScript, Tailwind CSS
+- **Backend:** Nest.js, Node.js, Django, Golang (RTSP Streaming)
+- **Database:** PostgreSQL (Multi-tenancy), MongoDB, Supabase
+- **DevOps/Tools:** Turborepo, Docker, Jest, GitHub Actions
+
+---
+
+## 🚀 Featured Production Projects
+- **[Capito](https://capito.in):** A comprehensive tax compliance and GSTR reconciliation hub.
+- **[RiteTax](https://ritetax.in):** A modern filing platform simplifying Indian tax compliance.
+- **[RiteFolio](https://ritefolio.in):** A high-performance portfolio builder for creatives.
+- **[Flashcorp](https://flashcorponline.com):** A no-code platform for rapid web application deployment.
+
+---
+
+## 🧗 Beyond the Code
+When I'm not architecting systems, you’ll find me:
+- ⛰️ Trekking across the **Sahyadri Range**.
+- 📄 Practicing the art of **Origami**.
+- 🎵 Producing and exploring new music.
+
+---
+
+## 📬 Connect with Me
+- **LinkedIn:** [linkedin.com/in/jatin-panchal-4b292722b](https://www.linkedin.com/in/jatin-panchal-4b292722b/)
+- **Email:** jatin.hp482k1@gmail.com
+
+
+### My GitHub Stats 📊
+![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatin-panchal127&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-panchal127&layout=compact&theme=radical)
