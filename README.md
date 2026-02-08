@@ -25,7 +25,7 @@ I specialize in building scalable, multi-tenant SaaS platforms and high-performa
 When I'm not architecting systems, you’ll find me:
 - ⛰️ Trekking across the **Sahyadri Range**.
 - 📄 Practicing the art of **Origami**.
-- 🎵 Producing and exploring new music.
+- 🎵 Exploring new music.
 
 ---
 
