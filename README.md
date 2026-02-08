@@ -32,8 +32,3 @@ When I'm not architecting systems, you’ll find me:
 ## 📬 Connect with Me
 - **LinkedIn:** [linkedin.com/in/jatin-panchal-4b292722b](https://www.linkedin.com/in/jatin-panchal-4b292722b/)
 - **Email:** jatin.hp482k1@gmail.com
-
-
-### My GitHub Stats 📊
-![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatin-panchal127&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-panchal127&layout=compact&theme=radical)
